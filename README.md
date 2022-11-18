@@ -1,4 +1,4 @@
-<h2> Hey There <image height="25" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">! I am Parth Parmar</h2>
+<h2> Hey There <image height="25" width="25" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">! I am Parth Parmar</h2>
   
   <p>🎓 I am Pursuing Bechlors In Computer Engineering from Gujarat Technological University. </p>
   <p>✨ I am Strongly Interested in exploring different domains, I am also passionate about Open-Source. </p>
